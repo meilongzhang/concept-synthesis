@@ -1,0 +1,6 @@
+[submodule "CodeT5"]
+	path = CodeT5
+	url = ./libraries/CodeT5
+[submodule "LOTlib3"]
+	path = LOTlib3
+	url = ./libraries/LOTlib3
