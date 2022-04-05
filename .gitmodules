@@ -4,3 +4,9 @@
 [submodule "LOTlib3"]
 	path = LOTlib3
 	url = ./libraries/LOTlib3
+[submodule "libraries/CodeT5"]
+	path = libraries/CodeT5
+	url = https://github.com/meilongzhang/CodeT5.git
+[submodule "libraries/LOTlib3"]
+	path = libraries/LOTlib3
+	url = https://github.com/piantado/LOTlib3.git
